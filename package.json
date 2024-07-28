@@ -62,7 +62,7 @@
     "@opentelemetry/resources": "^1.24.0",
     "@opentelemetry/sdk-node": "^0.51.0",
     "@opentelemetry/sdk-trace-node": "^1.24.0",
-    "@opentelemetry/semantic-conventions": "^1.24.0",
+    "@opentelemetry/semantic-conventions": "^1.25.1",
     "@playwright/test": "^1.43.1",
     "@types/node": "^20.12.7",
     "@types/picomatch": "^2.3.3",
