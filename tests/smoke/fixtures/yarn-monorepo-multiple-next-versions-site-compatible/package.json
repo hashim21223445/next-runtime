@@ -13,11 +13,11 @@
     "packages/*"
   ],
   "dependencies": {
-    "next": "13.4.1"
+    "next": "15.1.3"
   },
   "test": {
     "dependencies": {
-      "next": "13.4.1"
+      "next": "15.1.3"
     }
   }
 }
